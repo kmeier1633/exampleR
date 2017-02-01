@@ -1,1 +1,1 @@
-# exampleR
+# R code examples
